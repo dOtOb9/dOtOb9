@@ -1,4 +1,4 @@
-<details><summary>
+<details><summary>日本語版
 ## こんにちは 👋
 
 私は `dOtOb9` です。`he/him` と呼んでください。
