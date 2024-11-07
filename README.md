@@ -11,6 +11,14 @@
 
 VRやAI、デジタル構築技術にも関心があります。
 
+
+## ブログ📰
+| 言語         | サービス                              | 情報                                |
+|--------------|-------------------------------------|-----------------------------------|
+| 🇯🇵 日本語   |[Zenn](https://zenn.dev/dotob9)      | 技術的なより高度な内容を執筆します。|
+| 🇯🇵 日本語   |[Qiita](https://qiita.com/dOtOb9)    | 技術系の記事とその他を執筆します。  |
+| 🇯🇵 日本語   |[Note](https://note.com/dotob9/)     | ソフトウェア等の解説をします。      |
+| 🇺🇸 英語     |[Medium](https://medium.com/@dotob9) | ソフトウェア等の解説をします。      |
 </details>
 
 ---
@@ -23,19 +31,24 @@ I play the cello 🎻 and piano 🎹, mainly focusing on classical music. Howeve
 
 I'm into mathematics and algorithms, and competitive programming is one of my favorite activities.
 
-I’m interested in VR, AI, and digital construction technologies.
+I'm interested in VR, AI, and digital construction technologies.
 
 ## Skills💪
+### Frontend📱
+
+### Backend🤖
+
+### Serverside🖥
 
 ## Projects👨‍💻
 
 ## Blogs📰
-| language     | Service                             | Information                       |
+| Language     | Service                             | Information                       |
 |--------------|-------------------------------------|-----------------------------------|
-| 🇯🇵 Japanese |[Zenn](https://zenn.dev/dotob9)      | 技術系の記事を執筆します。        |
-| 🇯🇵 Japanese |[Qiita](https://qiita.com/dOtOb9)    | 技術系の記事とその他を執筆します。|
-| 🇯🇵 Japanese |[Note](https://note.com/dotob9/)     | ソフトウェア等の解説をします。    |
-| 🇺🇸 English  |[Medium](https://medium.com/@dotob9) |
+| 🇯🇵 Japanese |[Zenn](https://zenn.dev/dotob9)      | Writing more advanced technical articles. |
+| 🇯🇵 Japanese |[Qiita](https://qiita.com/dOtOb9)    | Writing technical articles and more.|
+| 🇯🇵 Japanese |[Note](https://note.com/dotob9/)     | Explaining software and more.     |
+| 🇺🇸 English  |[Medium](https://medium.com/@dotob9) | Explaining software and more.     |
 
 
 ## Contact📨
