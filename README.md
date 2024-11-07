@@ -1,4 +1,4 @@
-<details><summary>日本語版
+<details><summary>日本語版</summary>
 
 ## こんにちは 👋
 
@@ -69,7 +69,7 @@ VR、AI、デジタル構築技術にも興味があります。
 | [![X Badge](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white&labelColor=000000&label=Twitter)](https://x.com/dOtOb9)                         | ほとんど日本語しか話しません。         |
 | [![Meta Badge](https://img.shields.io/badge/Meta-FFFFFF?style=flat&logo=meta&logoColor=1877F2)](https://horizon.meta.com/profile/198894493318437/?hwsh=eUxKQTuNOu) | VRで話したい場合は、こちらをどうぞ。          |
 
-</summary></details>
+</details>
 
 ---
 
