@@ -14,7 +14,7 @@ I’m interested in VR, AI, and digital construction technologies.
 
 ## Projects👨‍💻
 
-## Blogs👨‍💻
+## Blogs📰
 
 
 ## Contact📨
