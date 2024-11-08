@@ -32,7 +32,7 @@ VR、AI、デジタル建設技術にも興味があります。
 
 
 ### バックエンド🤖
-最初に学んだ言語はPythonで、行列計算やグラフ作成など幅広く使用しています。Web開発にはTypeScript、競技プログラミングにはC++やRustを使い分けています。Haskellは圏論の勉強用に使い、VBAやGASは表計算の効率化に活用しています。
+最初に学んだ言語はPythonで、行列計算やグラフ作成などを中心に幅広く使用しています。Web開発にはTypeScript、競技プログラミングにはC++やRustを使い分けています。Haskellは圏論の勉強用に使い、VBAやGASは表計算の効率化に活用しています。
 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
