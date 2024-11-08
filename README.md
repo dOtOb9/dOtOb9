@@ -50,7 +50,7 @@ VR、AI、デジタル建設技術にも興味があります。
 ### 人工知能と機械学習🧠
 [![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
-### 競技プログラミング
+### 競技プログラミング🎮
 [![AtCoder Algorism Badge](https://img.shields.io/badge/AtCoder-Algorism%20灰色-gray?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/dOtOb9)
 
 
