@@ -15,7 +15,7 @@ VR、AI、デジタル建設技術にも興味があります。
 ## 開発環境💻
 | 記事      | 詳細 |
 |-----------|------|
-| OS        | [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com) |
+| OS        | [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com)  [![Windows Badge](https://img.shields.io/badge/Windows11-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)  [![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://www.android.com/) |
 | ブラウザ  | [![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-D14733?style=flat&logo=vivaldi&logoColor=white)](https://vivaldi.com)|
 
 ## スキル💪
@@ -30,10 +30,13 @@ VR、AI、デジタル建設技術にも興味があります。
 ### バックエンド🤖
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Rust Badge](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+
+
+[![Haskell Badge](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)](https://www.haskell.org/)
 [![C# Badge](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![C Badge](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+
 [![VBA Badge](https://img.shields.io/badge/VBA-FF0000?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/office/vba/)
 [![GAS Badge](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/apps-script)
 
@@ -44,8 +47,11 @@ VR、AI、デジタル建設技術にも興味があります。
 [![AWS Lambda Badge](https://img.shields.io/badge/AWS%20Lambda-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/lambda/)
 [![Railway Badge](https://img.shields.io/badge/Railway-333333?style=flat&logo=railway&logoColor=white)](https://railway.app/)
 
+### 人工知能と機械学習🧠
+[![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
+
 ### 競技プログラミング
-[![AtCoder Algorism Badge](https://img.shields.io/badge/AtCoder-Algorism%20Gray-gray?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/dOtOb9)
+[![AtCoder Algorism Badge](https://img.shields.io/badge/AtCoder-Algorism%20灰色-gray?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/dOtOb9)
 
 
 ## プロジェクト👨‍💻
@@ -88,7 +94,7 @@ I'm interested in VR, AI, and digital construction technologies.
 ## Developing Environment💻
 | article | details |
 |---------|---------|
-| OS      |[![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com) |
+| OS      |[![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com)  [![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)  [![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://www.android.com/) |
 | Browser | [![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-D14733?style=flat&logo=vivaldi&logoColor=white)](https://vivaldi.com)|
 
 ## Skills💪
