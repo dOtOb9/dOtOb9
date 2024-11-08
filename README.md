@@ -4,13 +4,13 @@
 
 私は `dOtOb9` です。`he/him` と呼んでください。
 
-🩸献血に情熱を注いでいます！
+🩸献血がとても大好きです！
 
 🎻チェロと🎹ピアノを演奏します。主にクラシック音楽を中心に弾いていますが、クラシックだけでなく、J-POPも大好きです！
 
 数学やアルゴリズムに興味があり、競技プログラミングが好きな活動の一つです。
 
-VR、AI、デジタル構築技術にも興味があります。
+VR、AI、デジタル建設技術にも興味があります。
 
 ## 開発環境💻
 | 記事      | 詳細 |
@@ -103,19 +103,24 @@ I'm interested in VR, AI, and digital construction technologies.
 ### Backend🤖
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Rust Badge](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+
+
+[![Haskell Badge](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)](https://www.haskell.org/)
 [![C# Badge](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![C Badge](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+
 [![VBA Badge](https://img.shields.io/badge/VBA-FF0000?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/office/vba/)
 [![GAS Badge](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/apps-script)
-
-
 
 ### Serverside☁
 [![EC2 Badge](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/ec2/)
 [![AWS Lambda Badge](https://img.shields.io/badge/AWS%20Lambda-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/lambda/)
 [![Railway Badge](https://img.shields.io/badge/Railway-333333?style=flat&logo=railway&logoColor=white)](https://railway.app/)
+
+### AI & MachineLearning🧠
+[![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
+
 
 ### Competing Programｍｍing
 [![AtCoder Algorism Badge](https://img.shields.io/badge/AtCoder-Algorism%20Gray-gray?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/dOtOb9)
