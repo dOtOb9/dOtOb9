@@ -128,7 +128,7 @@ I'm interested in VR, AI, and digital construction technologies.
 [![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 
-### Competing Programｍｍing
+### Competing Programｍｍing🎮
 [![AtCoder Algorism Badge](https://img.shields.io/badge/AtCoder-Algorism%20Gray-gray?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/dOtOb9)
 
 
