@@ -66,6 +66,8 @@ AWS関連のサービスを使ったことがありますが、多くの場合�
 もともと数学がとても好きだったこともあり、最近はそれにハマっています。
 
 [![AtCoder Algorism Badge](https://img.shields.io/badge/AtCoder-Algorism%20灰色-gray?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/dOtOb9)
+[![AtCoder Heuristic Badge](https://img.shields.io/badge/AtCoder-Heuristic%20灰色-gray?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/dOtOb9)
+
 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/dotob9)
 
@@ -160,6 +162,8 @@ I was very enthusiastic about machine learning for a while, though it’s not my
 Since I’ve always had a strong fondness for mathematics, I’ve recently become really interested in it again.
 
 [![AtCoder Algorism Badge](https://img.shields.io/badge/AtCoder-Algorism%20Gray-gray?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/dOtOb9)
+[![AtCoder Heuristic Badge](https://img.shields.io/badge/AtCoder-Heuristic%20Gray-gray?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/dOtOb9)
+
 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/dotob9)
 
