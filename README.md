@@ -59,11 +59,16 @@ AWS関連のサービスを使ったことがありますが、多くの場合�
 一時期は機械学習に非常に熱心に取り組んでいましたが、現在の主な活動ではありません。それでも、大いに興味を持っている分野です。
 
 [![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![LangChain Badge](https://img.shields.io/badge/LangChain-000000?style=flat&logo=python&logoColor=white)](https://www.langchain.com/)
+
 
 ### 競技プログラミング🎮
 もともと数学がとても好きだったこともあり、最近はそれにハマっています。
 
 [![AtCoder Algorism Badge](https://img.shields.io/badge/AtCoder-Algorism%20灰色-gray?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/dOtOb9)
+
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/dotob9)
+
 
 
 ## プロジェクト👨‍💻
@@ -147,12 +152,16 @@ I have experience using AWS-related services, but since most of my projects are 
 I was very enthusiastic about machine learning for a while, though it’s not my main focus now. However, it remains a field of great interest to me.
 
 [![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![LangChain Badge](https://img.shields.io/badge/LangChain-000000?style=flat&logo=python&logoColor=white)](https://www.langchain.com/)
+
 
 
 ### Competing Programｍｍing🎮
 Since I’ve always had a strong fondness for mathematics, I’ve recently become really interested in it again.
 
 [![AtCoder Algorism Badge](https://img.shields.io/badge/AtCoder-Algorism%20Gray-gray?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/dOtOb9)
+
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/dotob9)
 
 
 ## Projects👨‍💻
