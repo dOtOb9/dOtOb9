@@ -94,7 +94,7 @@ I'm interested in VR, AI, and digital construction technologies.
 ## Developing Environment💻
 | article | details |
 |---------|---------|
-| OS      |[![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com)  [![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)  [![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://www.android.com/) |
+| OS      |[![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com)  [![Windows Badge](https://img.shields.io/badge/Windows11-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)  [![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://www.android.com/) |
 | Browser | [![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-D14733?style=flat&logo=vivaldi&logoColor=white)](https://vivaldi.com)|
 
 ## Skills💪
