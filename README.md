@@ -55,7 +55,7 @@ AWS関連のサービスを使ったことがありますが、多くの場合�
 [![AWS Lambda Badge](https://img.shields.io/badge/AWS%20Lambda-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/lambda/)
 [![Railway Badge](https://img.shields.io/badge/Railway-333333?style=flat&logo=railway&logoColor=white)](https://railway.app/)
 
-### 人工知能と機械学習🧠
+### 人工知能と機械学習🦾🧠
 一時期は機械学習に非常に熱心に取り組んでいましたが、現在の主な活動ではありません。それでも、大いに興味を持っている分野です。
 
 [![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -150,7 +150,7 @@ I have experience using AWS-related services, but since most of my projects are 
 [![AWS Lambda Badge](https://img.shields.io/badge/AWS%20Lambda-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/lambda/)
 [![Railway Badge](https://img.shields.io/badge/Railway-333333?style=flat&logo=railway&logoColor=white)](https://railway.app/)
 
-### AI & MachineLearning🧠
+### AI & MachineLearning🦾🧠
 I was very enthusiastic about machine learning for a while, though it’s not my main focus now. However, it remains a field of great interest to me.
 
 [![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
