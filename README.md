@@ -62,8 +62,8 @@ AWS関連のサービスを使ったことがありますが、多くの場合�
 [![LangChain Badge](https://img.shields.io/badge/LangChain-000000?style=flat&logo=python&logoColor=white)](https://www.langchain.com/)
 
 
-### 競技プログラミング🎮
-もともと数学がとても好きだったこともあり、最近はそれにハマっています。
+### 競技プログラミング🎮🏆
+もともと数学がとても好きだったこともあり、競技プログラミングにハマっています。
 
 [![AtCoder Algorism Badge](https://img.shields.io/badge/AtCoder-Algorism%20灰色-gray?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/dOtOb9)
 [![AtCoder Heuristic Badge](https://img.shields.io/badge/AtCoder-Heuristic%20灰色-gray?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/dOtOb9)
@@ -158,8 +158,8 @@ I was very enthusiastic about machine learning for a while, though it’s not my
 
 
 
-### Competing Programｍｍing🎮
-Since I’ve always had a strong fondness for mathematics, I’ve recently become really interested in it again.
+### Competing Programｍｍing🎮🏆
+I've always loved math, which is one reason I've become so passionate about competitive programming.
 
 [![AtCoder Algorism Badge](https://img.shields.io/badge/AtCoder-Algorism%20Gray-gray?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/dOtOb9)
 [![AtCoder Heuristic Badge](https://img.shields.io/badge/AtCoder-Heuristic%20Gray-gray?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/dOtOb9)
