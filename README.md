@@ -15,10 +15,11 @@ VR、AI、デジタル建設技術にも興味があります。
 ## 開発環境💻
 現在、スマホはAndroidを使い、UbuntuとWindows 11のデュアルブート環境で活動しています。ブラウザはVivaldiがとても気に入っています✨
 
-| 項目      | 詳細 |
-|-----------|------|
-| OS        | [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com)  [![Windows Badge](https://img.shields.io/badge/Windows11-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)  [![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://www.android.com/) |
-| ブラウザ  | [![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-D14733?style=flat&logo=vivaldi&logoColor=white)](https://vivaldi.com)|
+| 項目             | 詳細 |
+|------------------|------|
+| OS               | [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com)  [![Windows Badge](https://img.shields.io/badge/Windows11-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)  [![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://www.android.com/) |
+| Browser          | [![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-D14733?style=flat&logo=vivaldi&logoColor=white)](https://vivaldi.com)|
+| IDE              | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white) |
 
 ## スキル💪
 ### フロントエンド🎨
@@ -40,12 +41,14 @@ VR、AI、デジタル建設技術にも興味があります。
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 
 
-[![Haskell Badge](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)](https://www.haskell.org/)
-[![C# Badge](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET 6](https://img.shields.io/badge/.NET%206-512BD4?style=flat&logo=.net&logoColor=white)
 
-[![VBA Badge](https://img.shields.io/badge/VBA-FF0000?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/office/vba/)
+
+![VBA](https://img.shields.io/badge/-VBA-217346?logo=microsoft&logoColor=white)
 [![GAS Badge](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/apps-script)
 
+[![Haskell Badge](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)](https://www.haskell.org/)
 
 
 ### サーバーサイド☁
@@ -86,13 +89,14 @@ AWS関連のサービスを使ったことがありますが、多くの場合�
 | 🇺🇸 英語    | [![Medium Badge](https://img.shields.io/badge/Medium-FFFFFF?style=flat&logo=medium&logoColor=000000)](https://medium.com/@dOtOb9)                              | ソフトウェアの説明など。                        |
 
 
-## 連絡先📨
-| プラットフォーム                                                                                                                                                          | 情報   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| [![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dOtOb9@gmail.com)                                        | 建設的な議論をしたい場合は、メールを選ぶと良いでしょう。     |
-| [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1047504754324013097)             | よりフレンドリーな会話をしたい場合は、こちらをどうぞ。     |
-| [![X Badge](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white&labelColor=000000&label=Twitter)](https://x.com/dOtOb9)                         | ほとんど日本語しか話しません。         |
-| [![Meta Badge](https://img.shields.io/badge/Meta-FFFFFF?style=flat&logo=meta&logoColor=1877F2)](https://horizon.meta.com/profile/198894493318437/?hwsh=eUxKQTuNOu) | VRで話したい場合は、こちらをどうぞ。          |
+## Contact📨
+
+| プラットフォーム                                                                                                                                                     | 詳細                                               |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+| [![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dOtOb9@gmail.com)                                             | 建設的な議論をしたい場合は、メールを使用してください。|
+| [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1047504754324013097)                | よりカジュアルな会話をしたい場合は、Discordを使用してください。|
+| [![X Badge](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white&labelColor=000000&label=Twitter)](https://x.com/dOtOb9)                           | 主に日本語でツイートします。                        |
+| [![Meta Badge](https://img.shields.io/badge/Meta-FFFFFF?style=flat&logo=meta&logoColor=1877F2)](https://horizon.meta.com/profile/198894493318437/?hwsh=eUxKQTuNOu)      | VRでの会話はMeta Horizon Worldsでどうぞ。         |
 
 </details>
 
@@ -112,10 +116,11 @@ I'm interested in VR, AI, and digital construction technologies.
 
 ## Developing Environment💻
 Currently, I use an Android smartphone and work in a dual-boot environment with Ubuntu and Windows 11. I'm really fond of using the Vivaldi browser. ✨
-| item    | details |
-|---------|---------|
-| OS      |[![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com)  [![Windows Badge](https://img.shields.io/badge/Windows11-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)  [![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://www.android.com/) |
-| Browser | [![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-D14733?style=flat&logo=vivaldi&logoColor=white)](https://vivaldi.com)|
+| Category         | Details |
+|------------------|---------|
+| OS               | [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com)  [![Windows Badge](https://img.shields.io/badge/Windows11-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)  [![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://www.android.com/) |
+| Browser          | [![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-D14733?style=flat&logo=vivaldi&logoColor=white)](https://vivaldi.com) |
+| IDE              | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white) |
 
 ## Skills💪
 ### Frontend🎨
@@ -136,12 +141,13 @@ The first language I learned was Python, which I use for a range of tasks, inclu
 [![Rust Badge](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET 6](https://img.shields.io/badge/.NET%206-512BD4?style=flat&logo=.net&logoColor=white)
+
+![VBA](https://img.shields.io/badge/-VBA-217346?logo=microsoft&logoColor=white)
+[![GAS Badge](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/apps-script)
 
 [![Haskell Badge](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)](https://www.haskell.org/)
-[![C# Badge](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-
-[![VBA Badge](https://img.shields.io/badge/VBA-FF0000?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/office/vba/)
-[![GAS Badge](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/apps-script)
 
 ### Serverside☁
 I have experience using AWS-related services, but since most of my projects are at a hobby level, I often use the more convenient Railway, which has been very helpful.
@@ -158,7 +164,7 @@ I was very enthusiastic about machine learning for a while, though it’s not my
 
 
 
-### Competing Programｍｍing🎮🏆
+### Competing Programing🎮🏆
 I've always loved math, which is one reason I've become so passionate about competitive programming.
 
 [![AtCoder Algorism Badge](https://img.shields.io/badge/AtCoder-Algorism%20Gray-gray?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/dOtOb9)
@@ -182,9 +188,10 @@ I've always loved math, which is one reason I've become so passionate about comp
 
 
 ## Contact📨
-| Platform                                                                                                                                                          | Information   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
-| [![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dOtOb9@gmail.com)                                        | If you want to have a constructive discussion, it's better to choose email.              |
-|[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1047504754324013097)             | If you'd like to have a more friendly conversation, feel free to use this.              |
-|[![X Badge](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white&labelColor=000000&label=Twitter)](https://x.com/dOtOb9)                         | I mostly speak Japanese.              |
-| [![Meta Badge](https://img.shields.io/badge/Meta-FFFFFF?style=flat&logo=meta&logoColor=1877F2)](https://horizon.meta.com/profile/198894493318437/?hwsh=eUxKQTuNOu)| If you'd like to talk in VR, feel free to use this.              |
+
+| Platform                                                                                                                                                          | Information                                        |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+| [![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dOtOb9@gmail.com)                                        | For a constructive discussion, use email.          |
+| [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1047504754324013097)             | For a more casual chat, join me on Discord.        |
+| [![X Badge](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white&labelColor=000000&label=Twitter)](https://x.com/dOtOb9)                         | I mostly tweet in Japanese.                        |
+| [![Meta Badge](https://img.shields.io/badge/Meta-FFFFFF?style=flat&logo=meta&logoColor=1877F2)](https://horizon.meta.com/profile/198894493318437/?hwsh=eUxKQTuNOu)   | Reach out to me in VR on Meta Horizon Worlds.      |
