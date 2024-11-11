@@ -41,8 +41,8 @@ VR、AI、デジタル建設技術にも興味があります。
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET 6](https://img.shields.io/badge/.NET%206-512BD4?style=flat&logo=.net&logoColor=white)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 
 
 ![VBA](https://img.shields.io/badge/-VBA-217346?logo=microsoft&logoColor=white)
@@ -141,8 +141,8 @@ The first language I learned was Python, which I use for a range of tasks, inclu
 [![Rust Badge](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET 6](https://img.shields.io/badge/.NET%206-512BD4?style=flat&logo=.net&logoColor=white)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 
 ![VBA](https://img.shields.io/badge/-VBA-217346?logo=microsoft&logoColor=white)
 [![GAS Badge](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/apps-script)
