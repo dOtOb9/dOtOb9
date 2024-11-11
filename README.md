@@ -91,12 +91,12 @@ AWS関連のサービスを使ったことがありますが、多くの場合�
 
 ## Contact📨
 
-| プラットフォーム                                                                                                                                                     | 詳細                                               |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-| [![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dOtOb9@gmail.com)                                             | 建設的な議論をしたい場合は、メールを使用してください。|
-| [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1047504754324013097)                | よりカジュアルな会話をしたい場合は、Discordを使用してください。|
-| [![X Badge](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white&labelColor=000000&label=Twitter)](https://x.com/dOtOb9)                           | 主に日本語でツイートします。                        |
-| [![Meta Badge](https://img.shields.io/badge/Meta-FFFFFF?style=flat&logo=meta&logoColor=1877F2)](https://horizon.meta.com/profile/198894493318437/?hwsh=eUxKQTuNOu)      | VRでの会話はMeta Horizon Worldsでどうぞ。         |
+| プラットフォーム                                                                                                                                                          | 詳細                                               |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+| [![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dOtOb9@gmail.com)                                              | 建設的な議論にはメールを。                        |
+| [![X Badge](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white&labelColor=000000&label=Twitter)](https://x.com/dOtOb9)                             | 主に日本語でツイートしています。気軽にDMしてください（日本語・英語可）。 |
+| [![Meta Badge](https://img.shields.io/badge/Meta-FFFFFF?style=flat&logo=meta&logoColor=1877F2)](https://horizon.meta.com/profile/198894493318437/?hwsh=eUxKQTuNOu)      | VRでの会話はMeta Horizon Worldsでどうぞ。          |
+
 
 </details>
 
@@ -191,7 +191,6 @@ I've always loved math, which is one reason I've become so passionate about comp
 
 | Platform                                                                                                                                                          | Information                                        |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-| [![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dOtOb9@gmail.com)                                        | For a constructive discussion, use email.          |
-| [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1047504754324013097)             | For a more casual chat, join me on Discord.        |
-| [![X Badge](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white&labelColor=000000&label=Twitter)](https://x.com/dOtOb9)                         | I mostly tweet in Japanese.                        |
+| [![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dOtOb9@gmail.com)                                        | For constructive discussions, use email.           |
+| [![X Badge](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white&labelColor=000000&label=Twitter)](https://x.com/dOtOb9)                         | I mostly tweet in Japanese. Feel free to DM me (Japanese/English). |
 | [![Meta Badge](https://img.shields.io/badge/Meta-FFFFFF?style=flat&logo=meta&logoColor=1877F2)](https://horizon.meta.com/profile/198894493318437/?hwsh=eUxKQTuNOu)   | Reach out to me in VR on Meta Horizon Worlds.      |
