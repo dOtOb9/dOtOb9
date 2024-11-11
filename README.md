@@ -156,7 +156,7 @@ I have experience using AWS-related services, but since most of my projects are 
 [![AWS Lambda Badge](https://img.shields.io/badge/AWS%20Lambda-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/lambda/)
 [![Railway Badge](https://img.shields.io/badge/Railway-333333?style=flat&logo=railway&logoColor=white)](https://railway.app/)
 
-### AI & MachineLearning🦾🧠
+### AI & Machine Learning🦾🧠
 I was very enthusiastic about machine learning for a while, though it’s not my main focus now. However, it remains a field of great interest to me.
 
 [![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -164,7 +164,7 @@ I was very enthusiastic about machine learning for a while, though it’s not my
 
 
 
-### Competing Programing🎮🏆
+### Competing Programming🎮🏆
 I've always loved math, which is one reason I've become so passionate about competitive programming.
 
 [![AtCoder Algorism Badge](https://img.shields.io/badge/AtCoder-Algorism%20Gray-gray?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/dOtOb9)
