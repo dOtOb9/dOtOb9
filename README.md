@@ -21,6 +21,17 @@ VR、AI、デジタル建設技術にも興味があります。
 | Browser          | [![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-D14733?style=flat&logo=vivaldi&logoColor=white)](https://vivaldi.com)|
 | IDE              | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white) |
 
+
+## プロジェクト👨‍💻
+
+## ブログ📰
+| 言語        | プラットフォーム                                                                                                                                                            | 情報                                       |
+|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+| 🇯🇵 日本語  | [![Zenn Badge](https://img.shields.io/badge/-Zenn-3EA8FF?style=flat&logo=Zenn&logoColor=white&link=https://zenn.dev/dotob9)](https://zenn.dev/dotob9)    | より高度な技術的な記事を執筆中。               |
+| 🇯🇵 日本語  | [![Qiita Badge](https://img.shields.io/badge/Qiita-55C500?style=flat&logo=qiita&logoColor=white)](https://qiita.com/dOtOb9)                                    | 技術的な記事を執筆中。                       |
+| 🇯🇵 日本語  | [![Note Badge](https://img.shields.io/badge/Note-FFFFFF?style=flat&logo=note&logoColor=black)](https://note.com/dOtOb9)                                        | ソフトウェアの説明など。                        |
+| 🇺🇸 英語    | [![Medium Badge](https://img.shields.io/badge/Medium-FFFFFF?style=flat&logo=medium&logoColor=000000)](https://medium.com/@dOtOb9)                              | ソフトウェアの説明など。                        |
+
 ## スキル💪
 ### フロントエンド🎨
 まだまだ半端者ですが、TailwindCSSを用いたReactアプリケーションの開発に取り組んでいます。
@@ -76,17 +87,6 @@ AWS関連のサービスを使ったことがありますが、多くの場合�
 
 
 
-## プロジェクト👨‍💻
-
-
-
-## ブログ📰
-| 言語        | プラットフォーム                                                                                                                                                            | 情報                                       |
-|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
-| 🇯🇵 日本語  | [![Zenn Badge](https://img.shields.io/badge/-Zenn-3EA8FF?style=flat&logo=Zenn&logoColor=white&link=https://zenn.dev/dotob9)](https://zenn.dev/dotob9)    | より高度な技術的な記事を執筆中。               |
-| 🇯🇵 日本語  | [![Qiita Badge](https://img.shields.io/badge/Qiita-55C500?style=flat&logo=qiita&logoColor=white)](https://qiita.com/dOtOb9)                                    | 技術的な記事を執筆中。                       |
-| 🇯🇵 日本語  | [![Note Badge](https://img.shields.io/badge/Note-FFFFFF?style=flat&logo=note&logoColor=black)](https://note.com/dOtOb9)                                        | ソフトウェアの説明など。                        |
-| 🇺🇸 英語    | [![Medium Badge](https://img.shields.io/badge/Medium-FFFFFF?style=flat&logo=medium&logoColor=000000)](https://medium.com/@dOtOb9)                              | ソフトウェアの説明など。                        |
 
 
 ## Contact📨
@@ -122,6 +122,16 @@ Currently, I use an Android smartphone and work in a dual-boot environment with 
 | Browser          | [![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-D14733?style=flat&logo=vivaldi&logoColor=white)](https://vivaldi.com) |
 | IDE              | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white) |
 
+## Projects👨‍💻
+
+## Blogs📰
+| Language     | Platform                                                                                                                                                            | Information                               |
+|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
+| 🇯🇵 Japanese |[![Zenn Badge](https://img.shields.io/badge/-Zenn-3EA8FF?style=flat&logo=Zenn&logoColor=white&link=https://zenn.dev/dotob9)](https://zenn.dev/dotob9)    | Writing more advanced technical articles. |
+| 🇯🇵 Japanese |[![Qiita Badge](https://img.shields.io/badge/Qiita-55C500?style=flat&logo=qiita&logoColor=white)](https://qiita.com/dOtOb9)                                    | Writing technical articles and more.      |
+| 🇯🇵 Japanese |[![Note Badge](https://img.shields.io/badge/Note-FFFFFF?style=flat&logo=note&logoColor=black)](https://note.com/dOtOb9)                                        | Explaining software and more.             |
+| 🇺🇸 English  |[![Medium Badge](https://img.shields.io/badge/Medium-FFFFFF?style=flat&logo=medium&logoColor=000000)](https://medium.com/@dOtOb9)                              | Explaining software and more.             |
+
 ## Skills💪
 ### Frontend🎨
 I'm still a beginner, but I'm working on developing a React application using TailwindCSS.
@@ -131,7 +141,6 @@ I'm still a beginner, but I'm working on developing a React application using Ta
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML Badge](https://img.shields.io/badge/HTML-0A7DFF?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
 
 ### Backend🤖
 The first language I learned was Python, which I use for a range of tasks, including matrix calculations and graphing. I use TypeScript for web development and C++ or Rust for competitive programming. I study category theory with Haskell and use VBA and GAS to optimize spreadsheets.
@@ -172,19 +181,6 @@ I've always loved math, which is one reason I've become so passionate about comp
 
 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/dotob9)
-
-
-## Projects👨‍💻
-
-
-
-## Blogs📰
-| Language     | Platform                                                                                                                                                            | Information                               |
-|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
-| 🇯🇵 Japanese |[![Zenn Badge](https://img.shields.io/badge/-Zenn-3EA8FF?style=flat&logo=Zenn&logoColor=white&link=https://zenn.dev/dotob9)](https://zenn.dev/dotob9)    | Writing more advanced technical articles. |
-| 🇯🇵 Japanese |[![Qiita Badge](https://img.shields.io/badge/Qiita-55C500?style=flat&logo=qiita&logoColor=white)](https://qiita.com/dOtOb9)                                    | Writing technical articles and more.      |
-| 🇯🇵 Japanese |[![Note Badge](https://img.shields.io/badge/Note-FFFFFF?style=flat&logo=note&logoColor=black)](https://note.com/dOtOb9)                                        | Explaining software and more.             |
-| 🇺🇸 English  |[![Medium Badge](https://img.shields.io/badge/Medium-FFFFFF?style=flat&logo=medium&logoColor=000000)](https://medium.com/@dOtOb9)                              | Explaining software and more.             |
 
 
 ## Contact📨
