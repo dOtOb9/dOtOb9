@@ -6,9 +6,8 @@
 - 🏗️土木工学
 
 ## 🌐リンク
-- 😺[GitHub](https://github.com/dOtOb9)
 - 𝕏 [X](https://x.com/dOtOb9)
-- ⚔️[AtCoder](https://atcoder.jp/users/dOtOb9)
+- ⚔️[AtCoder](https://atcoder.jp/users/dotob9)
 - 🔐[TryHackMe](https://tryhackme.com/p/dOtOb9)
 - 🤖[Kaggle](https://www.kaggle.com/dotob9)
 - 🎥[YouTube](https://www.youtube.com/channel/UCYxJQEq7ySx1TZB6M7-PuaQ)
@@ -75,9 +74,8 @@ Hi!🖐️I'm a student programmer, `dOtOb9`.
 </p>
 
 ## 🌐Links
-- 😺[GitHub](https://github.com/dOtOb9)
 -  𝕏 [X](https://x.com/dOtOb9)
-- ⚔️[AtCoder](https://atcoder.jp/users/dOtOb9)
+- ⚔️[AtCoder](https://atcoder.jp/users/dotob9)
 - 🔐[TryHackMe](https://tryhackme.com/p/dOtOb9)
 - 🤖[Kaggle](https://www.kaggle.com/dotob9)
 - 🎥[YouTube](https://www.youtube.com/channel/UCYxJQEq7ySx1TZB6M7-PuaQ)
