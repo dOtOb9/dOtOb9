@@ -7,6 +7,7 @@
 
 ## 🌐リンク
 - 😺[GitHub](https://github.com/dOtOb9)
+- 𝕏 [X](https://x.com/dOtOb9)
 - ⚔️[AtCoder](https://atcoder.jp/users/dOtOb9)
 - 🔐[TryHackMe](https://tryhackme.com/p/dOtOb9)
 - 🤖[Kaggle](https://www.kaggle.com/dotob9)
@@ -75,6 +76,7 @@ Hi!🖐️I'm a student programmer, `dOtOb9`.
 
 ## 🌐Links
 - 😺[GitHub](https://github.com/dOtOb9)
+-  𝕏 [X](https://x.com/dOtOb9)
 - ⚔️[AtCoder](https://atcoder.jp/users/dOtOb9)
 - 🔐[TryHackMe](https://tryhackme.com/p/dOtOb9)
 - 🤖[Kaggle](https://www.kaggle.com/dotob9)
