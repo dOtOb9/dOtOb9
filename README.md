@@ -41,8 +41,8 @@
 - 🌤️気象予報士試験
 - 💻応用情報技術者試験（AP）
 - 🏠宅地建物取引士
-- 🇬🇧英語
-- 🇨🇳中国語
+- 英語
+- 中国語
 
 ## 🥰趣味（Hobbies）
 - 💻プログラミング
@@ -91,8 +91,8 @@ Hi!🖐️I'm a student programmer, `dOtOb9`.
 - 🌤️Weather Forecaster Exam
 - 💻Applied Information Technology Engineer Exam (AP)
 - 🏠Real Estate Transaction Specialist
-- 🇬🇧English
-- 🇨🇳Chinese
+- English
+- Mandarin Chinese
 
 ## 🥰Hobbies
 - 💻Programming
