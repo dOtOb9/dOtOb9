@@ -2,10 +2,10 @@
 <details><summary>日本語版</summary>
 こんにちは！🖐️私は学生プログラマーの`dOtOb9`です。
 
-### 🎓大学の専攻
+## 🎓大学の専攻
 - 🏗️土木工学
 
-### 🌐リンク
+## 🌐リンク
 - 😺[GitHub](https://github.com/dOtOb9)
 - ⚔️[AtCoder](https://atcoder.jp/users/dOtOb9)
 - 🔐[TryHackMe](https://tryhackme.com/p/dOtOb9)
@@ -13,7 +13,7 @@
 - 🎥[YouTube](https://www.youtube.com/channel/UCYxJQEq7ySx1TZB6M7-PuaQ)
 - 📧`dotob9@vivaldi.net`
 
-### 技術スタック
+## 技術スタック
 </p>
 </p>
 <p align="left">
@@ -31,20 +31,20 @@
 </p>
 
 
-### 🏅資格
+## 🏅資格
 - 💻基本情報技術者（FE）
 - 💻情報セキュリティマネジメント（SG）
 - 💻ITパスポート
 - 💻MOS Excel PowerPoint 各種
 
-### 📚勉強中（Learnings）
+## 📚勉強中（Learnings）
 - 🌤️気象予報士試験
 - 💻応用情報技術者試験（AP）
 - 🏠宅地建物取引士
 - 🇬🇧英語
 - 🇨🇳中国語
 
-### 🥰趣味（Hobbies）
+## 🥰趣味（Hobbies）
 💻プログラミング
 🎻チェロ
 🎹ピアノ
@@ -55,10 +55,10 @@
 
 Hi!🖐️I'm a student programmer, `dOtOb9`. 
 
-### 🎓University Major
+## 🎓University Major
 - 🏗️Civil Engineering
 
-### 🛠️Technical Stacks
+## 🛠️Technical Stacks
 </p>
 <p align="left">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
@@ -73,7 +73,7 @@ Hi!🖐️I'm a student programmer, `dOtOb9`.
 </p>
 </p>
 
-### 🌐Links
+## 🌐Links
 - 😺[GitHub](https://github.com/dOtOb9)
 - ⚔️[AtCoder](https://atcoder.jp/users/dOtOb9)
 - 🔐[TryHackMe](https://tryhackme.com/p/dOtOb9)
@@ -81,20 +81,20 @@ Hi!🖐️I'm a student programmer, `dOtOb9`.
 - 🎥[YouTube](https://www.youtube.com/channel/UCYxJQEq7ySx1TZB6M7-PuaQ)
 - 📧`dotob9@vivaldi.net`
 
-### 🏅Certifications
+## 🏅Certifications
 - 💻Fundamental Information Technology Engineer (FE)
 - 💻Information Security Management (SG)
 - 💻IT Passport
 - 💻MOS Excel PowerPoint Various
 
-### 📚Learnings
+## 📚Learnings
 - 🌤️Weather Forecaster Exam
 - 💻Applied Information Technology Engineer Exam (AP)
 - 🏠Real Estate Transaction Specialist
 - 🇬🇧English
 - 🇨🇳Chinese
 
-### 🥰Hobbies
+## 🥰Hobbies
 - 💻Programming
 - 🎻Cello
 - 🎹Piano
