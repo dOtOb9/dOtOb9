@@ -34,19 +34,19 @@
 
 <p align="left">
 	<a href="https://www.youtube.com/channel/UCYxJQEq7ySx1TZB6M7-PuaQ" target="_blank" rel="noopener noreferrer">
-		<img src="./assets/YouTube.png" height="36" alt="YouTube"/>
+		<img src="./assets/YouTube.png" height="40" alt="YouTube"/>
 	</a>
 	<a href="https://x.com/dOtOb9" target="_blank" rel="noopener noreferrer">
-		<img src="./assets/X.png" height="36" alt="X(Twitter)" style="background-color:black; border-radius:8px; padding:4px; object-fit:contain; margin-right:8px;"/>
+		<img src="./assets/X.png" height="40" alt="X(Twitter)" style="background-color:black; border-radius:8px; padding:4px; object-fit:contain; margin-right:8px;"/>
 	</a>
 	<a href="https://atcoder.jp/users/dOtOb9" target="_blank" rel="noopener noreferrer">
-		<img src="./assets/AtCoder.png" height="36" alt="AtCoder"/>
+		<img src="./assets/AtCoder.png" height="40" alt="AtCoder"/>
 	</a>
 	<a href="https://tryhackme.com/p/dOtOb9" target="_blank" rel="noopener noreferrer">
-		<img src="./assets/TryHackMe.png" height="36" alt="TryHackMe"/>
+		<img src="./assets/TryHackMe.png" height="40" alt="TryHackMe"/>
 	</a>
 	<a href="https://www.kaggle.com/dotob9" target="_blank" rel="noopener noreferrer">
-		<img src="./assets/kaggle.png" height="36" alt="Kaggle"/>
+		<img src="./assets/kaggle.png" height="40" alt="Kaggle"/>
 	</a>
 </p>
 
