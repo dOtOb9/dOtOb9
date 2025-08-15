@@ -1,6 +1,6 @@
 
 <details><summary>日本語版</summary>
-こんにちは！🖐️私は学生プログラマーの `dOtOb9` です。
+こんにちは！🖐️私は学生プログラマの `dOtOb9` です．
 
 ## 🎓大学の専攻
 - 🏗️土木工学
@@ -45,23 +45,23 @@
 
 ---
 
-Hi!🖐️I'm a student programmer, `dOtOb9`. 
+Hi!🖐️I'm a student programmer, `dOtOb9`. I major in Civil Engineering.
 
-## 🎓University Major
-- 🏗️Civil Engineering
+
+
 
 ## 🛠️Technical Stacks
 </p>
 <p align="left">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-	<img src="https://www.rust-lang.org/logos/rust-logo-blk.svg" width="40" height="40" alt="Rust"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="40" height="40" alt="Haskell"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg" width="40" height="40" alt="Processing"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
+	<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
+	<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></a>
+	<a href="https://kotlinlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/></a>
+	<a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/></a>
+	<a href="https://www.rust-lang.org/" target="_blank"><img src="https://www.rust-lang.org/logos/rust-logo-blk.svg" width="40" height="40" alt="Rust"/></a>
+	<a href="https://www.haskell.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="40" height="40" alt="Haskell"/></a>
+	<a href="https://processing.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg" width="40" height="40" alt="Processing"/></a>
+	<a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/></a>
+	<a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/></a>
 </p>
 </p>
 
@@ -78,6 +78,26 @@ Hi!🖐️I'm a student programmer, `dOtOb9`.
 - 🏠Real Estate Transaction Specialist
 - English
 - Mandarin Chinese
+
+## 🌐Account
+
+<p align="left">
+	<a href="https://www.youtube.com/channel/UCYxJQEq7ySx1TZB6M7-PuaQ" target="_blank" rel="noopener noreferrer">
+		<img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="40" height="40" alt="YouTube"/>
+	</a>
+	<a href="https://x.com/dOtOb9" target="_blank" rel="noopener noreferrer">
+		<img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" width="40" height="40" alt="X(Twitter)"/>
+	</a>
+	<a href="https://atcoder.jp/users/dOtOb9" target="_blank" rel="noopener noreferrer">
+		<img src="https://img.atcoder.jp/assets/icon/atcoder.png" width="40" height="40" alt="AtCoder"/>
+	</a>
+	<a href="https://tryhackme.com/p/dOtOb9" target="_blank" rel="noopener noreferrer">
+		<img src="https://raw.githubusercontent.com/dotob9/assets/main/tryhackme-icon.svg" width="40" height="40" alt="TryHackMe"/>
+	</a>
+	<a href="https://www.kaggle.com/dotob9" target="_blank" rel="noopener noreferrer">
+		<img src="https://img.icons8.com/?size=100&id=Omk4fWoSmCHm&format=png&color=000000" width="40" height="40" alt="Kaggle"/>
+	</a>
+</p>
 
 ## 🥰Hobbies
 - 💻Programming
