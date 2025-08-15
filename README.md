@@ -83,19 +83,19 @@ Hi!🖐️I'm a student programmer, `dOtOb9`. I major in Civil Engineering.
 
 <p align="left">
 	<a href="https://www.youtube.com/channel/UCYxJQEq7ySx1TZB6M7-PuaQ" target="_blank" rel="noopener noreferrer">
-		<img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="40" height="40" alt="YouTube"/>
+		<img src="https://github.com/dOtOb9/dOtOb9/blob/main/media/YouTube.png?raw=true" height="40" alt="YouTube" style="margin-right:8px;"/>
 	</a>
 	<a href="https://x.com/dOtOb9" target="_blank" rel="noopener noreferrer">
-		<img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" width="40" height="40" alt="X(Twitter)"/>
+		<img src="https://github.com/dOtOb9/dOtOb9/blob/main/media/X.png?raw=true" height="40" alt="X(Twitter)" style="background-color:#000; border-radius:8px; padding:4px; object-fit:contain; margin-right:8px;"/>
 	</a>
 	<a href="https://atcoder.jp/users/dOtOb9" target="_blank" rel="noopener noreferrer">
-		<img src="https://img.atcoder.jp/assets/icon/atcoder.png" width="40" height="40" alt="AtCoder"/>
+		<img src="https://github.com/dOtOb9/dOtOb9/blob/main/media/AtCoder.png?raw=true" height="40" alt="AtCoder" style="margin-right:8px;"/>
 	</a>
 	<a href="https://tryhackme.com/p/dOtOb9" target="_blank" rel="noopener noreferrer">
-		<img src="https://raw.githubusercontent.com/dotob9/assets/main/tryhackme-icon.svg" width="40" height="40" alt="TryHackMe"/>
+		<img src="https://github.com/dOtOb9/dOtOb9/blob/main/media/TryHackMe.png?raw=true" height="40" alt="TryHackMe" style="margin-right:8px;"/>
 	</a>
 	<a href="https://www.kaggle.com/dotob9" target="_blank" rel="noopener noreferrer">
-		<img src="https://img.icons8.com/?size=100&id=Omk4fWoSmCHm&format=png&color=000000" width="40" height="40" alt="Kaggle"/>
+		<img src="https://github.com/dOtOb9/dOtOb9/blob/main/media/kaggle.png?raw=true" height="40" alt="Kaggle"/>
 	</a>
 </p>
 
