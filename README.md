@@ -5,14 +5,6 @@
 ## 🎓大学の専攻
 - 🏗️土木工学
 
-## 🌐リンク
-- 𝕏 [X](https://x.com/dOtOb9)
-- ⚔️[AtCoder](https://atcoder.jp/users/dOtOb9)
-- 🔐[TryHackMe](https://tryhackme.com/p/dotob9)
-- 🤖[Kaggle](https://www.kaggle.com/dotob9)
-- 🎥[YouTube](https://www.youtube.com/channel/UCYxJQEq7ySx1TZB6M7-PuaQ)
-- 📧`dotob9@vivaldi.net`
-
 ## 技術スタック
 </p>
 </p>
@@ -73,13 +65,6 @@ Hi!🖐️I'm a student programmer, `dOtOb9`.
 </p>
 </p>
 
-## 🌐Links
--  𝕏 [X](https://x.com/dOtOb9)
-- ⚔️[AtCoder](https://atcoder.jp/users/dOtOb9)
-- 🔐[TryHackMe](https://tryhackme.com/p/dotob9)
-- 🤖[Kaggle](https://www.kaggle.com/dotob9)
-- 🎥[YouTube](https://www.youtube.com/channel/UCYxJQEq7ySx1TZB6M7-PuaQ)
-- 📧`dotob9@vivaldi.net`
 
 ## 🏅Certifications
 - 💻Fundamental Information Technology Engineer (FE)
