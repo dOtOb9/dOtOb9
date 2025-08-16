@@ -41,7 +41,7 @@
 	<a href="https://www.youtube.com/channel/UCYxJQEq7ySx1TZB6M7-PuaQ"><img src="./assets/YouTube.png" height="40" alt="YouTube"/></a>
 	<a href="https://x.com/dOtOb9"><img src="./assets/X.png" height="40" alt="X(Twitter)"/></a>
 	<a href="https://atcoder.jp/users/dOtOb9"><img src="./assets/AtCoder.png" height="40" alt="AtCoder"/></a>
-	<a href="https://tryhackme.com/p/dOtOb9"><img src="./assets/TryHackMe.png" height="40" alt="TryHackMe"/></a>
+	<a href="https://tryhackme.com/p/dotob9"><img src="./assets/TryHackMe.png" height="40" alt="TryHackMe"/></a>
 	<a href="https://www.kaggle.com/dotob9"><img src="./assets/kaggle.png" height="40" alt="Kaggle"/></a>
 </p>
 
@@ -90,6 +90,6 @@ Hi! 🖐️ I'm a student programmer, `dOtOb9`. I major in Civil Engineering.
 	<a href="https://www.youtube.com/channel/UCYxJQEq7ySx1TZB6M7-PuaQ"><img src="./assets/YouTube.png" height="40" alt="YouTube"/></a>
 	<a href="https://x.com/dOtOb9"><img src="./assets/X.png" height="40" alt="X(Twitter)"/></a>
 	<a href="https://atcoder.jp/users/dOtOb9"><img src="./assets/AtCoder.png" height="40" alt="AtCoder"/></a>
-	<a href="https://tryhackme.com/p/dOtOb9"><img src="./assets/TryHackMe.png" height="40" alt="TryHackMe"/></a>
+	<a href="https://tryhackme.com/p/dotob9"><img src="./assets/TryHackMe.png" height="40" alt="TryHackMe"/></a>
 	<a href="https://www.kaggle.com/dotob9"><img src="./assets/kaggle.png" height="40" alt="Kaggle"/></a>
 </p>
