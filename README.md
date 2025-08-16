@@ -30,6 +30,11 @@
 - 英語
 - 中国語
 
+## 🥰 趣味
+- 💻 プログラミング
+- 🎻 チェロ
+- 🎹 ピアノ
+
 ## 🌐 アカウント
 
 <p align="left">
@@ -39,11 +44,6 @@
 	<a href="https://tryhackme.com/p/dOtOb9"><img src="./assets/TryHackMe.png" height="40" alt="TryHackMe"/></a>
 	<a href="https://www.kaggle.com/dotob9"><img src="./assets/kaggle.png" height="40" alt="Kaggle"/></a>
 </p>
-
-## 🥰 趣味
-- 💻 プログラミング
-- 🎻 チェロ
-- 🎹 ピアノ
 
 </details>
 
@@ -78,6 +78,12 @@ Hi! 🖐️ I'm a student programmer, `dOtOb9`. I major in Civil Engineering.
 - English
 - Mandarin Chinese
 
+
+## 🥰 Hobbies
+- 💻 Programming
+- 🎻 Cello
+- 🎹 Piano
+
 ## 🌐 Accounts
 
 <p align="left">
@@ -87,8 +93,3 @@ Hi! 🖐️ I'm a student programmer, `dOtOb9`. I major in Civil Engineering.
 	<a href="https://tryhackme.com/p/dOtOb9"><img src="./assets/TryHackMe.png" height="40" alt="TryHackMe"/></a>
 	<a href="https://www.kaggle.com/dotob9"><img src="./assets/kaggle.png" height="40" alt="Kaggle"/></a>
 </p>
-
-## 🥰 Hobbies
-- 💻 Programming
-- 🎻 Cello
-- 🎹 Piano
